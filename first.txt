@@ -4,3 +4,4 @@ git add
 git commit
 git rm
 学習した項目は以上になります
+git status
