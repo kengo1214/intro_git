@@ -6,3 +6,4 @@ git rm
 学習した項目は以上になります
 git status
 git diff
+リポジトリの登録が出来ない
