@@ -4,3 +4,4 @@ git add
 git commit
 gitの勉強3日目突入
 git rm
+git diff
